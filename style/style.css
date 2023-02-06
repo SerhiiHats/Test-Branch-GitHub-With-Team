@@ -1,7 +1,6 @@
 .container-calculator{
     max-width: 310px;
     border: 2px solid gray;
-    /* display: flex; */
     margin: auto;
     box-shadow: 0 0 2px 3px lightgray;
 
