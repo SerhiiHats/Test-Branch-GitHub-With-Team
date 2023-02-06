@@ -24,6 +24,7 @@
     margin: 3px;
     text-align: center;
     font-size: 20px;
+    user-select: none;
 }
 
 .input-result{
@@ -49,4 +50,7 @@
 .btn:active{
     opacity: 0.5;
     box-shadow: none;
+}
+.between{
+    background: #b8d0e5;
 }
