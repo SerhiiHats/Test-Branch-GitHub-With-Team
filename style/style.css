@@ -3,7 +3,6 @@
     border: 2px solid gray;
     margin: auto;
     box-shadow: 0 0 2px 3px lightgray;
-
 }
 
 .header {
@@ -32,7 +31,6 @@
     width: 250px;
     font-size: 50px;
     text-align: right;
-    /*! border: none; */
     border: none;
 }
 
@@ -41,7 +39,7 @@
 }
 
 .result {
-    background: rgb(171, 199, 207);
+    background: #b8d0e5;
 }
 
 .btn:hover{  
@@ -54,5 +52,13 @@
 }
 
 .between {
+    background: #b8d0e5;
+}
+
+#reset{
+    background: #f8cfcf;
+}
+
+.comma{
     background: #b8d0e5;
 }
